@@ -1,4 +1,4 @@
-# Портфолио проектов
+# Портфолио-проект
 В репозитории содержатся проект курса Open Machine Learning course [open data science](https://ods.ai/).
 
 
