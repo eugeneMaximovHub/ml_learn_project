@@ -1,8 +1,8 @@
 # Портфолио-проект
-В репозитории содержатся проект курса Open Machine Learning course [open data science](https://ods.ai/).
+В репозитории содержатся проект Open Machine Learning course [open data science](https://ods.ai/).
 
 
-## Проекты с курса "Open Machine Learning course"
+## Проект "Open Machine Learning course"
 | № | Проект    | Задачи проекта   | Описание проекта                                                   | Навыки и инструменты  |
 |---|-----------|------------------|--------------------------------------------------------------------|-----------------------|
 |1|[Предварительный анализ данных с помощью Pandas](https://github.com/eugeneMaximovHub/ml_learn_project/tree/main/assignment01_exploratory_data_analysis_with_pandas)|Изучить библиотеку Pandas и провести первичный анализ данных.|В ходе выполнения были изучены и применены некоторые функции Pandas.|Pandas, Numpy, Python, Обработка данных,|
